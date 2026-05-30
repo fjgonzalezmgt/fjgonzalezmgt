@@ -82,6 +82,14 @@ Portafolio de aprendizaje aplicado, análisis exploratorio, visualización y pro
 
 Esta línea documenta evolución técnica y práctica analítica en distintos contextos, como complemento a mi enfoque principal en calidad, operaciones y datos.
 
+## Biblioteca Técnica Quality Analytics
+
+Mantengo una biblioteca curada de guías y artículos técnicos sobre sistemas de gestión de calidad, auditoría, CAPA, SPC, MSA, excelencia operacional, analítica e inteligencia artificial aplicada a calidad.
+
+Estos recursos complementan los proyectos, notebooks, dashboards y herramientas analíticas de este portafolio.
+
+[Explorar la Biblioteca Técnica](TECHNICAL_LIBRARY.md)
+
 ## Cómo leer este perfil
 
 Este GitHub no está organizado como una colección de scripts aislados.
