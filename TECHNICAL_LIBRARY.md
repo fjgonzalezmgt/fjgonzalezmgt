@@ -6,13 +6,13 @@ Los documentos están alojados en el sitio web de Quality Analytics y también e
 
 ## 1. Sistemas de gestión de calidad y auditoría
 
-- **Guía práctica para implementar ISO 9001** — *En desarrollo*  
+- [Guía práctica para implementar ISO 9001](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_implementacion_iso_9001_2026.pdf)  
   Ruta práctica para implementar sistemas de gestión de calidad: contexto, procesos, riesgos, controles, evidencia, indicadores, mejora y preparación para certificación.
 
 - [Guía completa de auditoría de sistemas de gestión basada en ISO 19011](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_auditoria_iso_19011_2026.pdf)  
   Guía práctica para gestionar programas de auditoría, planificación, ejecución, evidencia, hallazgos, informes, seguimiento y competencia del auditor.
 
-- **Guía práctica de CAPA y causa raíz** — *En desarrollo*  
+- [Guía práctica de CAPA y causa raíz](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_capa_calidad_opex.pdf)  
   Guía para contención, corrección, análisis de causa raíz, acción correctiva, verificación de eficacia, prevención de recurrencia y aprendizaje organizacional.
 
 ## 2. Quality Analytics y calidad basada en datos
