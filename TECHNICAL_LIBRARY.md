@@ -26,6 +26,9 @@ Los documentos están alojados en el sitio web de Quality Analytics y también e
 - [SPC aplicado: de la gráfica al control del proceso](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_spc_calidad_opex.pdf)  
   Guía práctica sobre variación común y especial, límites de control, estabilidad, capacidad, señales, reacción operativa y mejora continua.
 
+- **Guía práctica de DOE para calidad y mejora de procesos** — *En desarrollo*  
+  Guía para diseñar, ejecutar e interpretar experimentos aplicados a procesos industriales y de servicios, integrando comparación de medias, ANOVA, regresión, diseños factoriales, superficie de respuesta, optimización, validación de resultados y criterios de decisión operacional.
+
 - [IA aplicada a QMS, MSA y SPC](https://qualityanalytics.net/wp-content/uploads/2026/05/ia_qms_msa_spc.pdf)  
   Artículo técnico sobre IA tradicional e IA generativa aplicada a sistemas de calidad, medición, SPC, CAPA, validación, gobierno y responsabilidad profesional.
 
