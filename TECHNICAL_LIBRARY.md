@@ -20,10 +20,10 @@ Los documentos están alojados en el sitio web de Quality Analytics y también e
 - **Indicadores de calidad que sí cambian decisiones** — *En desarrollo*  
   Guía para diseñar KPIs de calidad, tableros, rutinas de revisión, criterios de reacción y métricas del SGC orientadas a decisiones.
 
-- **Medir bien antes de decidir: MSA, Gage R&R y confiabilidad de mediciones** — *En desarrollo*  
+- [Medir bien antes de decidir: MSA, Gage R&R y confiabilidad de mediciones](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_msa_2026.pdf)  
   Guía práctica sobre análisis de sistemas de medición, metrología, calibración, verificación y confiabilidad de los datos usados para decisiones de calidad.
 
-- **SPC aplicado: de la gráfica al control del proceso** — *En desarrollo*  
+- [SPC aplicado: de la gráfica al control del proceso](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_spc_calidad_opex.pdf)  
   Guía práctica sobre variación común y especial, límites de control, estabilidad, capacidad, señales, reacción operativa y mejora continua.
 
 - [IA aplicada a QMS, MSA y SPC](https://qualityanalytics.net/wp-content/uploads/2026/05/ia_qms_msa_spc.pdf)  
