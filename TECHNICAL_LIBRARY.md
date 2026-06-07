@@ -17,9 +17,6 @@ Los documentos están alojados en el sitio web de Quality Analytics y también e
 
 ## 2. Quality Analytics y calidad basada en datos
 
-- **Indicadores de calidad que sí cambian decisiones** — *En desarrollo*  
-  Guía para diseñar KPIs de calidad, tableros, rutinas de revisión, criterios de reacción y métricas del SGC orientadas a decisiones.
-
 - [Medir bien antes de decidir: MSA, Gage R&R y confiabilidad de mediciones](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_msa_2026.pdf)  
   Guía práctica sobre análisis de sistemas de medición, metrología, calibración, verificación y confiabilidad de los datos usados para decisiones de calidad.
 
@@ -45,6 +42,9 @@ Los documentos están alojados en el sitio web de Quality Analytics y también e
 
 - [Guía práctica para Black Belts en Ingenios Azucareros](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_black_belt_ingenios.pdf)  
   Guía sectorial sobre Lean Six Sigma, DMAIC, pérdidas operacionales, productividad, energía, confiabilidad, calidad, indicadores y sostenimiento en ingenios azucareros.
+
+- [Lean Healthcare aplicado a clínicas dentales](https://qualityanalytics.net/wp-content/uploads/2026/06/lean_healthcare_clinica_dental.pdf)  
+  Guía sectorial sobre aplicación de Lean Healthcare, calidad, flujo de pacientes, tiempos de espera, experiencia del paciente, estandarización, indicadores y mejora operacional en clínicas dentales.
 
 ## 4. Artículos técnicos especializados
 
