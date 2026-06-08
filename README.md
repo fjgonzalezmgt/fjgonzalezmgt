@@ -181,6 +181,16 @@ AI for Quality · RAG para documentación técnica · QMS Intelligence · trazab
 
 ---
 
+## Proyectos personales y analítica recreativa
+
+También mantengo proyectos personales donde exploro análisis de datos, visualización y contenido en temas de entretenimiento, gaming, deportes y simulación.
+
+- [Gamer Insight Analytics](https://gamerinsightanalytics.com/) — sitio personal sobre gaming, cultura digital, sports analytics y sim racing.
+
+Estos proyectos funcionan como laboratorio personal de curiosidad analítica y publicación web. No forman parte del núcleo profesional de Quality Analytics, pero complementan la práctica pública de análisis, visualización y comunicación de datos.
+
+---
+
 ## Sobre Quality Analytics
 
 [Quality Analytics](https://qualityanalytics.net) es mi plataforma de conocimiento aplicado para conectar calidad, operaciones y datos.
@@ -195,5 +205,6 @@ La tecnología amplifica el criterio; no reemplaza la responsabilidad profesiona
 
 - [Quality Analytics](https://qualityanalytics.net)
 - [Biblioteca Técnica](TECHNICAL_LIBRARY.md)
+- [Gamer Insight Analytics](https://gamerinsightanalytics.com/)
 - [LinkedIn](https://www.linkedin.com/in/franciscogonzalez)
 - [GitHub](https://github.com/fjgonzalezmgt)
