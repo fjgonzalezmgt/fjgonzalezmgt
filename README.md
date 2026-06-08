@@ -1,12 +1,59 @@
 # Francisco González
 
-Construyo herramientas, notebooks y sistemas analíticos para convertir métodos de calidad, excelencia operacional y datos operativos en mejores decisiones.
+Construyo conocimiento técnico, guías aplicadas y herramientas analíticas para conectar calidad, excelencia operacional, sistemas de gestión y datos con mejores decisiones operativas.
 
-Mi enfoque combina experiencia de planta, Lean Six Sigma, estadística aplicada, sistemas de gestión de calidad, automatización e inteligencia artificial aplicada a QMS.
+Mi enfoque combina experiencia de planta, Lean Six Sigma, estadística aplicada, QMS, automatización e inteligencia artificial aplicada a calidad. La parte técnica es un medio para un fin: ayudar a profesionales y organizaciones a entender mejor sus procesos, reducir variabilidad, fortalecer evidencia y decidir con más claridad.
 
-Este GitHub no está organizado como una colección de scripts aislados. Es un portafolio técnico aplicado para mostrar cómo los métodos de calidad pueden convertirse en herramientas prácticas para analizar procesos, reducir variabilidad, mejorar trazabilidad y sostener decisiones operativas.
+Este GitHub está organizado alrededor de un activo principal: la **Biblioteca Técnica Quality Analytics**. Los repositorios, notebooks, scripts y herramientas funcionan como extensiones prácticas de esa biblioteca.
 
-> Convertir datos, método y experiencia operativa en herramientas que ayuden a decidir mejor.
+> Convertir teoría, método y experiencia operativa en criterios, herramientas y decisiones aplicables.
+
+---
+
+## Biblioteca Técnica Quality Analytics
+
+La [Biblioteca Técnica Quality Analytics](TECHNICAL_LIBRARY.md) es el centro de este ecosistema.
+
+Reúne guías y artículos técnicos desarrollados para conectar sistemas de gestión, auditoría, CAPA, SPC, MSA, DOE, excelencia operacional, analítica e inteligencia artificial aplicada con problemas reales de calidad y operación.
+
+Su valor no está solo en documentar teoría. Está en traducir métodos técnicos en criterios de aplicación, preguntas de diagnóstico, riesgos, controles, ejemplos sectoriales y decisiones operativas.
+
+```mermaid
+flowchart LR
+    A[Teoría y normas] --> B[Método técnico]
+    B --> C[Criterio aplicado]
+    C --> D[Herramientas y plantillas]
+    D --> E[Decisiones operativas]
+    E --> F[Aprendizaje y mejora]
+
+    B --> B1[QMS]
+    B --> B2[CAPA]
+    B --> B3[SPC]
+    B --> B4[MSA]
+    B --> B5[DOE]
+    B --> B6[Lean Six Sigma]
+
+    C --> C1[Riesgos]
+    C --> C2[Condiciones de uso]
+    C --> C3[Preguntas guía]
+    C --> C4[Criterios de decisión]
+
+    D --> D1[Guías]
+    D --> D2[Notebooks]
+    D --> D3[Dashboards]
+    D --> D4[Automatizaciones]
+```
+
+La biblioteca trabaja en cuatro líneas principales:
+
+| Línea | Qué conecta | Ejemplos |
+|---|---|---|
+| Sistemas de gestión y auditoría | Normas, evidencia, hallazgos y mejora | ISO 9001, ISO 19011, CAPA, causa raíz |
+| Calidad basada en datos | Variación, medición, estabilidad y capacidad | MSA, SPC, DOE, IA aplicada a QMS |
+| Calidad sectorial y OPEX aplicada | Método técnico en contextos industriales y de servicio | Empaques para alimentos, ingenios azucareros, clínicas dentales |
+| Artículos técnicos especializados | Decisiones técnicas con mayor profundidad | costo de no calidad, estadística bayesiana, validación de software |
+
+[Explorar la Biblioteca Técnica](TECHNICAL_LIBRARY.md)
 
 ---
 
@@ -24,86 +71,82 @@ Trabajo en la intersección entre calidad, operaciones y analítica aplicada. Lo
 
 ---
 
-## Mapa del enfoque
+## Mapa del ecosistema
 
 ```mermaid
-flowchart LR
-    A[Problema operativo] --> B[Datos disponibles]
-    B --> C[Método técnico]
-    C --> D[Herramienta analítica]
-    D --> E[Lectura del proceso]
-    E --> F[Decisión operativa]
-    F --> G[Control y aprendizaje]
-    G --> B
+flowchart TD
+    A[Biblioteca Técnica Quality Analytics] --> B[Criterio técnico documentado]
+    A --> C[Problemas operativos comunes]
+    A --> D[Métodos de calidad y OPEX]
+    A --> E[Aplicaciones sectoriales]
 
-    C --> C1[SPC]
-    C --> C2[MSA]
-    C --> C3[Capacidad]
-    C --> C4[FMEA]
-    C --> C5[DOE]
-    C --> C6[CAPA]
+    B --> F[Repositorios técnicos]
+    C --> F
+    D --> F
+    E --> F
 
-    D --> D1[Python]
-    D --> D2[Power BI]
-    D --> D3[R / Shiny]
-    D --> D4[Automatización]
-    D --> D5[IA aplicada]
+    F --> G[Quality Analytics Toolkit]
+    F --> H[QMS Intelligence / AI for Quality]
+    F --> I[Operational Analytics & Automation]
+    F --> J[Learning / Data Science Portfolio]
+
+    G --> K[Herramientas de calidad]
+    H --> L[IA y trazabilidad QMS]
+    I --> M[Automatización de entregables]
+    J --> N[Práctica analítica aplicada]
+
+    K --> O[Mejores decisiones operativas]
+    L --> O
+    M --> O
+    N --> O
 ```
 
-La tecnología aporta valor cuando se conecta con un problema real, datos confiables, método adecuado y una decisión que mejora. Sin esa conexión, el análisis se queda en reporte o la automatización solo acelera un sistema débil.
+La lógica del portafolio es simple: la biblioteca organiza el criterio; los repositorios lo convierten en herramientas; las herramientas ayudan a decidir mejor.
 
 ---
 
 ## Repositorios principales
 
-| Línea de trabajo | Problema que aborda | Ejemplos de herramientas |
+| Línea de trabajo | Rol dentro del ecosistema | Ejemplos de herramientas |
 |---|---|---|
 | [Quality Analytics Toolkit](https://github.com/fjgonzalezmgt/Quality-Analytics-Toolkit) | Convertir métodos clásicos de calidad en herramientas operativas | SPC, capacidad de proceso, Gage R&R, AQL, DOE, FMEA, causa raíz |
-| [QMS Intelligence / AI for Quality](https://github.com/fjgonzalezmgt/QMS-Intelligence-AI-for-Quality) | Reducir fricción documental y mejorar trazabilidad en sistemas de calidad | SOPs, CAPA, auditorías, reclamos, especificaciones, RAG, recuperación de evidencia |
+| [QMS Intelligence / AI for Quality](https://github.com/fjgonzalezmgt/QMS-Intelligence-AI-for-Quality) | Explorar IA aplicada a documentación, evidencia y trazabilidad QMS | SOPs, CAPA, auditorías, reclamos, especificaciones, RAG, recuperación de evidencia |
 | [Operational Analytics & Automation](https://github.com/fjgonzalezmgt/Operational-Analytics-Automation) | Automatizar reportes, documentos y flujos técnicos reutilizables | generación documental, automatización, dashboards, scripts, entregables profesionales |
 | [Learning / Data Science Portfolio](https://github.com/fjgonzalezmgt/Learning-Data-Science-Portfolio) | Documentar evolución técnica en analítica y ciencia de datos | EDA, visualización, modelos, notebooks, proyectos aplicados |
 
 ---
 
-## Ecosistema técnico
+## Cómo se convierte el conocimiento en herramienta
 
 ```mermaid
-flowchart TD
-    A[Calidad y operaciones] --> B[Quality Analytics Toolkit]
-    A --> C[QMS Intelligence / AI for Quality]
-    A --> D[Operational Analytics & Automation]
-    A --> E[Learning / Data Science Portfolio]
+flowchart LR
+    A[Guía técnica] --> B[Marco de decisión]
+    B --> C[Criterios de aplicación]
+    C --> D[Plantilla o herramienta]
+    D --> E[Uso en análisis real]
+    E --> F[Decisión, control o mejora]
 
-    B --> B1[Métodos de calidad convertidos en herramientas]
-    B1 --> B2[SPC, MSA, capacidad, DOE, FMEA, AQL]
-
-    C --> C1[IA y documentación QMS con trazabilidad]
-    C1 --> C2[SOPs, CAPA, auditorías, reclamos, evidencia]
-
-    D --> D1[Automatización y entregables reutilizables]
-    D1 --> D2[Reportes, documentos, flujos analíticos]
-
-    E --> E1[Aprendizaje analítico aplicado]
-    E1 --> E2[Notebooks, modelos, visualización, práctica técnica]
-
-    B2 --> F[Mejores decisiones operativas]
-    C2 --> F
-    D2 --> F
-    E2 --> F
+    A --> A1[Normas, método, casos]
+    B --> B1[Qué evaluar]
+    C --> C1[Cuándo aplica / cuándo no]
+    D --> D1[Notebook, app, dashboard, checklist]
+    E --> E1[Datos del proceso]
+    F --> F1[Acción operativa]
 ```
 
-La lógica del portafolio es simple: tomar problemas reales de calidad y operación, aplicar método técnico, construir herramientas reproducibles y documentar el criterio detrás de cada decisión.
+Este flujo es importante porque evita separar artificialmente contenido y tecnología. Una guía técnica bien diseñada puede convertirse en checklist, herramienta analítica, clase, dashboard, script, plantilla o sistema de apoyo a decisiones.
 
 ---
 
 ## Capacidades demostradas
 
-- Traducir métodos de calidad en herramientas reproducibles.
+- Traducir teoría, normas y métodos de calidad en criterios prácticos de decisión.
+- Diseñar guías técnicas que conectan conceptos con aplicación operativa.
+- Convertir métodos de calidad en herramientas reproducibles.
 - Diseñar análisis estadísticos aplicados a procesos reales.
 - Automatizar reportes, documentos y flujos técnicos.
 - Conectar QMS, CAPA, auditorías y reclamos con analítica e IA.
 - Convertir información operativa dispersa en criterios de decisión.
-- Documentar herramientas de forma clara para usuarios técnicos.
 - Integrar experiencia de planta con Python, Power BI, R/Shiny, automatización e inteligencia artificial aplicada.
 
 ---
@@ -114,41 +157,27 @@ Este perfil puede leerse en tres niveles.
 
 ```mermaid
 flowchart LR
-    A[Nivel 1: Herramientas] --> B[Scripts, apps, notebooks, dashboards]
-    B --> C[Nivel 2: Métodos]
-    C --> D[SPC, MSA, DOE, FMEA, CAPA, capacidad]
+    A[Nivel 1: Biblioteca] --> B[Guías, artículos, marcos, criterios]
+    B --> C[Nivel 2: Herramientas]
+    C --> D[Scripts, apps, notebooks, dashboards]
     D --> E[Nivel 3: Decisiones]
     E --> F[Controlar variabilidad, priorizar acciones, validar evidencia, reducir fricción]
 ```
 
-El código es solo una parte del valor. El foco está en cómo cada herramienta ayuda a interpretar mejor un proceso, sostener una mejora o reducir la distancia entre análisis y ejecución.
-
----
-
-## Biblioteca técnica Quality Analytics
-
-Además del código, mantengo una biblioteca curada de guías y artículos técnicos sobre sistemas de gestión de calidad, auditoría, CAPA, SPC, MSA, excelencia operacional, analítica e inteligencia artificial aplicada a calidad.
-
-La intención es conectar tres niveles:
-
-1. Método técnico.
-2. Herramienta analítica.
-3. Decisión operativa.
-
-[Explorar la Biblioteca Técnica](TECHNICAL_LIBRARY.md)
+El código es una parte del valor, no el punto de partida. El foco está en cómo cada recurso ayuda a interpretar mejor un proceso, sostener una mejora o reducir la distancia entre teoría, análisis y ejecución.
 
 ---
 
 ## Temas de interés
 
-**Calidad y mejora**  
-SPC · MSA · Gage R&R · capacidad de proceso · FMEA · DOE · CAPA · causa raíz · QMS · auditorías · reclamos
+**Sistemas de calidad y mejora**  
+QMS · ISO 9001 · ISO 19011 · auditorías · CAPA · causa raíz · reclamos · SPC · MSA · Gage R&R · capacidad de proceso · FMEA · DOE
 
 **Analítica y automatización**  
-Python · Power BI · R/Shiny · automatización de reportes · dashboards · análisis estadístico · documentación técnica
+Python · Power BI · R/Shiny · automatización de reportes · dashboards · análisis estadístico · documentación técnica · herramientas reproducibles
 
 **Quality 4.0 e IA aplicada**  
-AI for Quality · RAG para documentación técnica · QMS Intelligence · trazabilidad de evidencia · revisión humana · gobierno del dato
+AI for Quality · RAG para documentación técnica · QMS Intelligence · trazabilidad de evidencia · revisión humana · gobierno del dato · validación basada en riesgo
 
 ---
 
@@ -156,7 +185,7 @@ AI for Quality · RAG para documentación técnica · QMS Intelligence · trazab
 
 [Quality Analytics](https://qualityanalytics.net) es mi plataforma de conocimiento aplicado para conectar calidad, operaciones y datos.
 
-El objetivo es construir herramientas, contenido técnico, formación y activos reutilizables que ayuden a profesionales y organizaciones a pasar de reportar problemas a gestionarlos con método, evidencia y criterio operativo.
+El objetivo es construir guías, herramientas, contenido técnico, formación y activos reutilizables que ayuden a profesionales y organizaciones a pasar de reportar problemas a gestionarlos con método, evidencia y criterio operativo.
 
 La tecnología amplifica el criterio; no reemplaza la responsabilidad profesional.
 
@@ -165,5 +194,6 @@ La tecnología amplifica el criterio; no reemplaza la responsabilidad profesiona
 ## Enlaces
 
 - [Quality Analytics](https://qualityanalytics.net)
+- [Biblioteca Técnica](TECHNICAL_LIBRARY.md)
 - [LinkedIn](https://www.linkedin.com/in/franciscogonzalez)
 - [GitHub](https://github.com/fjgonzalezmgt)
