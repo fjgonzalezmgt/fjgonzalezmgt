@@ -83,8 +83,8 @@ Para equipos que evalúan IA, automatización documental, RAG, clasificación o 
 
 Para equipos que necesitan adaptar calidad y mejora continua a contextos concretos.
 
-1. [Guía introductoria para Ingenieros de Calidad en Empaques para Alimentos](https://qualityanalytics.net/wp-content/uploads/2026/04/guia_cqe_empaques.pdf)
-2. [Guía práctica para Black Belts en Ingenios Azucareros](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_black_belt_ingenios.pdf)
+1. [Guía introductoria para Ingenieros de Calidad en Empaques para Alimentos](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_cqe_empaques.pdf)
+2. [Guía práctica para Black Belts en Ingenios Azucareros](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_black_belt_ingenios.pdf)
 3. [Lean Healthcare aplicado a clínicas dentales](https://qualityanalytics.net/wp-content/uploads/2026/06/lean_healthcare_clinica_dental.pdf)
 
 **Lectura útil:** aplicar método técnico según proceso, riesgo, flujo, datos disponibles y cliente.
@@ -166,14 +166,14 @@ Artículo técnico sobre costos de no calidad, pérdidas operativas, desperdicio
 
 ## Calidad sectorial y excelencia operacional aplicada
 
-### [Guía introductoria para Ingenieros de Calidad en Empaques para Alimentos](https://qualityanalytics.net/wp-content/uploads/2026/04/guia_cqe_empaques.pdf)
+### [Guía introductoria para Ingenieros de Calidad en Empaques para Alimentos](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_cqe_empaques.pdf)
 
 Guía sectorial sobre calidad en empaques, materiales en contacto con alimentos, defectología, inspección, metrología, trazabilidad, liberación y sistemas de gestión.
 
 **Útil para:** ingenieros de calidad, supervisores, auditores y equipos técnicos en empaques para alimentos.  
 **Ayuda a decidir:** qué controlar, cómo inspeccionar y cómo conectar defectos, proceso, inocuidad y cliente.
 
-### [Guía práctica para Black Belts en Ingenios Azucareros](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_black_belt_ingenios.pdf)
+### [Guía práctica para Black Belts en Ingenios Azucareros](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_black_belt_ingenios.pdf)
 
 Guía sectorial sobre Lean Six Sigma, DMAIC, pérdidas operacionales, productividad, energía, confiabilidad, calidad, indicadores y sostenimiento en ingenios azucareros.
 
