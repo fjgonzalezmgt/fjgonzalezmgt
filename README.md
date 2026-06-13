@@ -89,16 +89,19 @@ flowchart TD
     F --> H[QMS Intelligence / AI for Quality]
     F --> I[Operational Analytics & Automation]
     F --> J[Learning / Data Science Portfolio]
+    F --> P[Codex Skills / AI Workflows]
 
     G --> K[Herramientas de calidad]
     H --> L[IA y trazabilidad QMS]
     I --> M[Automatización de entregables]
     J --> N[Práctica analítica aplicada]
+    P --> Q[Skills reutilizables y flujos asistidos por IA]
 
     K --> O[Mejores decisiones operativas]
     L --> O
     M --> O
     N --> O
+    Q --> O
 ```
 
 La lógica del portafolio es simple: la biblioteca organiza el criterio; los repositorios lo convierten en herramientas; las herramientas ayudan a decidir mejor.
@@ -112,6 +115,7 @@ La lógica del portafolio es simple: la biblioteca organiza el criterio; los rep
 | [Quality Analytics Toolkit](https://github.com/fjgonzalezmgt/Quality-Analytics-Toolkit) | Convertir métodos clásicos de calidad en herramientas operativas | SPC, capacidad de proceso, Gage R&R, AQL, DOE, FMEA, causa raíz |
 | [QMS Intelligence / AI for Quality](https://github.com/fjgonzalezmgt/QMS-Intelligence-AI-for-Quality) | Explorar IA aplicada a documentación, evidencia y trazabilidad QMS | SOPs, CAPA, auditorías, reclamos, especificaciones, RAG, recuperación de evidencia |
 | [Operational Analytics & Automation](https://github.com/fjgonzalezmgt/Operational-Analytics-Automation) | Automatizar reportes, documentos y flujos técnicos reutilizables | generación documental, automatización, dashboards, scripts, entregables profesionales |
+| [Codex Skills / AI Workflows](https://github.com/fjgonzalezmgt/Codex-Skills-AI-Workflows) | Organizar skills, flujos asistidos por IA y capacidades reutilizables para trabajo técnico | draw.io, documentación técnica, QMS, herramientas de calidad, analítica aplicada |
 | [Learning / Data Science Portfolio](https://github.com/fjgonzalezmgt/Learning-Data-Science-Portfolio) | Documentar evolución técnica en analítica y ciencia de datos | EDA, visualización, modelos, notebooks, proyectos aplicados |
 
 ---
@@ -145,6 +149,7 @@ Este flujo es importante porque evita separar artificialmente contenido y tecnol
 - Convertir métodos de calidad en herramientas reproducibles.
 - Diseñar análisis estadísticos aplicados a procesos reales.
 - Automatizar reportes, documentos y flujos técnicos.
+- Crear skills reutilizables y flujos asistidos por IA para generar artefactos técnicos editables.
 - Conectar QMS, CAPA, auditorías y reclamos con analítica e IA.
 - Convertir información operativa dispersa en criterios de decisión.
 - Integrar experiencia de planta con Python, Power BI, R/Shiny, automatización e inteligencia artificial aplicada.
@@ -205,6 +210,7 @@ La tecnología amplifica el criterio; no reemplaza la responsabilidad profesiona
 
 - [Quality Analytics](https://qualityanalytics.net)
 - [Biblioteca Técnica](TECHNICAL_LIBRARY.md)
+- [Codex Skills / AI Workflows](https://github.com/fjgonzalezmgt/Codex-Skills-AI-Workflows)
 - [Gamer Insight Analytics](https://gamerinsightanalytics.com/)
 - [LinkedIn](https://www.linkedin.com/in/franciscogonzalez)
 - [GitHub](https://github.com/fjgonzalezmgt)
