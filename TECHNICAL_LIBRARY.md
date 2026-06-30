@@ -18,7 +18,7 @@ La biblioteca cubre sistemas de gestión, auditoría, CAPA, SPC, MSA, DOE, Lean 
 | Probar variables de proceso con método | DOE · ANOVA · Regresión | Qué factores evaluar, cómo interpretar resultados y cómo validar mejoras |
 | Priorizar mejoras por impacto económico | Costo de no calidad · Lean Six Sigma | Qué pérdidas convertir en proyectos de mejora |
 | Aplicar IA en calidad con control de riesgo | IA en QMS · Validación de software · MSA | Dónde usar IA con trazabilidad, revisión humana y gobierno |
-| Aplicar calidad y OPEX en sectores específicos | Empaques · Ingenios · Clínicas dentales | Cómo adaptar métodos generales al contexto operativo real |
+| Aplicar calidad y OPEX en sectores específicos | Empaques · Ingenios · Clínicas dentales · Despachos legales | Cómo adaptar métodos generales al contexto operativo real |
 
 ---
 
@@ -86,6 +86,7 @@ Para equipos que necesitan adaptar calidad y mejora continua a contextos concret
 1. [Guía introductoria para Ingenieros de Calidad en Empaques para Alimentos](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_cqe_empaques.pdf)
 2. [Guía práctica para Black Belts en Ingenios Azucareros](https://qualityanalytics.net/wp-content/uploads/2026/06/guia_black_belt_ingenios.pdf)
 3. [Lean Healthcare aplicado a clínicas dentales](https://qualityanalytics.net/wp-content/uploads/2026/06/lean_healthcare_clinica_dental.pdf)
+4. [Lean Service aplicado a despachos de abogacía](https://qualityanalytics.net/wp-content/uploads/2026/06/lean_service_despacho_abogacia.pdf)
 
 **Lectura útil:** aplicar método técnico según proceso, riesgo, flujo, datos disponibles y cliente.
 
@@ -186,6 +187,13 @@ Guía sectorial sobre aplicación de Lean Healthcare, calidad, flujo de paciente
 
 **Útil para:** clínicas dentales, profesionales de salud, administradores de clínica y equipos que buscan mejorar flujo y experiencia del paciente.  
 **Ayuda a decidir:** cómo aplicar mejora operacional en servicios de salud sin perder el foco clínico y humano.
+
+### [Lean Service aplicado a despachos de abogacía](https://qualityanalytics.net/wp-content/uploads/2026/06/lean_service_despacho_abogacia.pdf)
+
+Guía sectorial sobre aplicación de Lean Service a despachos legales, con foco en flujo de casos, tiempos de respuesta, estandarización documental, priorización del trabajo, gestión visual y experiencia del cliente.
+
+**Útil para:** abogados, despachos legales, equipos administrativos y profesionales que buscan mejorar la gestión operativa del servicio jurídico.  
+**Ayuda a decidir:** cómo mejorar flujo, organización y respuesta al cliente sin debilitar el criterio profesional ni la responsabilidad legal.
 
 ---
 
