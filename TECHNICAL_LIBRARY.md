@@ -35,7 +35,7 @@ flowchart LR
 
 Para responsables de QMS, auditores internos, líderes de calidad y equipos de implementación.
 
-1. [Guía práctica para implementar ISO 9001](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_implementacion_iso_9001_2026.pdf)
+1. [Guía práctica para implementar ISO 9001](https://qualityanalytics.net/wp-content/uploads/2026/09/guia_implementacion_iso_9001_2026.pdf)
 2. [Guía completa de auditoría de sistemas de gestión basada en ISO 19011](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_auditoria_iso_19011_2026.pdf)
 3. [Guía práctica de CAPA y causa raíz](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_capa_calidad_opex.pdf)
 
@@ -96,7 +96,7 @@ Para equipos que necesitan adaptar calidad y mejora continua a contextos concret
 
 ## Sistemas de gestión de calidad y auditoría
 
-### [Guía práctica para implementar ISO 9001](https://qualityanalytics.net/wp-content/uploads/2026/05/guia_implementacion_iso_9001_2026.pdf)
+### [Guía práctica para implementar ISO 9001](https://qualityanalytics.net/wp-content/uploads/2026/09/guia_implementacion_iso_9001_2026.pdf)
 
 Ruta práctica para implementar sistemas de gestión de calidad: contexto, procesos, riesgos, controles, evidencia, indicadores, mejora y preparación para certificación.
 
