@@ -1,6 +1,11 @@
-# Francisco González
+# Francisco José González Mazariegos
 
-Construyo conocimiento técnico, guías aplicadas y herramientas analíticas para conectar calidad, excelencia operacional, sistemas de gestión y datos con mejores decisiones operativas.
+**Quality Analytics · Operational Excellence · Lean Six Sigma · Data Analytics · AI for Quality**  
+**Guatemala · Latin America**
+
+Profesional senior en calidad, excelencia operacional y analítica aplicada a operaciones. Construyo conocimiento técnico, guías y herramientas para conectar sistemas de gestión, Lean Six Sigma, estadística, datos e inteligencia artificial con mejores decisiones operativas.
+
+**Senior professional in Quality, Operational Excellence and Applied Analytics**, focused on manufacturing, QMS and operational decision-making. I connect Lean Six Sigma, statistical methods, data analytics, automation and AI for Quality with practical, evidence-based improvement.
 
 Mi enfoque combina experiencia de planta, Lean Six Sigma, estadística aplicada, QMS, automatización e inteligencia artificial aplicada a calidad. La parte técnica es un medio para un fin: ayudar a profesionales y organizaciones a entender mejor sus procesos, reducir variabilidad, fortalecer evidencia y decidir con más claridad.
 
